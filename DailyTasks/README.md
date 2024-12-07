@@ -1,11 +1,13 @@
 <h1>Daily Leetcode tasks 🗓️</h1>
-<p>In this folder you will find all my solutions for the daily Leetcode problems<br>
-You can search for a problem directly via the solutions file name e.g.: Leetcode1234<br>
-Problem date and solution stats such as...
+<p>In this folder you will find all my solutions for the daily Leetcode problems.<br>
+You can search for a problem directly via the solutions file name e.g.: Leetcode1234 or<br>
+Via the problem date and in the commit message.<br>
 
-- Difficulty
-- Runtime efficiency
-- Memory efficiency
-- Problem description
+Info about the problem and solution such as...
 
-can be found in the commit description</p>
+- 🔥 Difficulty
+- 🚀 Runtime efficiency
+- 💾 Memory efficiency
+- 📝 Problem description
+
+...can be found at the top of each solution in code comments.</p>
