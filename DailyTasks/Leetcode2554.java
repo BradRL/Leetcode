@@ -2,6 +2,9 @@ import java.util.*;
 
 /**
  * My solution today's daily Leetcode problem (06/12/2024)
+ * Difficulty: Medium
+ * Runtime: 29ms | Beats 84.24%
+ * Memory 45.22MB | Beats 98.18%
  * (Class will need renaming to "Solution" to run in Leetcode)
  */
 public class Leetcode2554 {
