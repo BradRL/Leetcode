@@ -1,3 +1,8 @@
+"""
+Difficulty: Medium
+Runtime: 156ms | Beats 98.62%
+Memory 16.6MB | Beats 38.22%
+"""
 class Solution(object):
     """
     Move pieces to obtain a string
